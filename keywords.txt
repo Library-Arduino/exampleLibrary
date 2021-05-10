@@ -1,5 +1,5 @@
 ###########################################
-# Syntax Coloring Map For Menu
+# Syntax Coloring Map For Example
 ###########################################
 
 ###########################################
@@ -14,10 +14,12 @@ Example	KEYWORD1
 
 suma	KEYWORD2
 resta	KEYWORD2
-multiplicar KEYWORD2
-
+multiplicar	KEYWORD2
+mostrarValorPrivado	KEYWORD2
+variablePublica	KEYWORD2
 ###########################################
 # Constants (LITERAL1)
 ###########################################
+PI	LITERAL1
 
 
