@@ -17,6 +17,7 @@ resta	KEYWORD2
 multiplicar	KEYWORD2
 mostrarValorPrivado	KEYWORD2
 variablePublica	KEYWORD2
+mostrarPi	KEYWORD2
 ###########################################
 # Constants (LITERAL1)
 ###########################################
