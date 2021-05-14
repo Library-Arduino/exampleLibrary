@@ -18,6 +18,8 @@ multiplicar	KEYWORD2
 mostrarValorPrivado	KEYWORD2
 variablePublica	KEYWORD2
 mostrarPi	KEYWORD2
+mostrarMensaje	KEYWORD2
+delayp	KEYWORD2
 ###########################################
 # Constants (LITERAL1)
 ###########################################
